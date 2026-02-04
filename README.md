@@ -1,6 +1,9 @@
-                                                  Hi 👋, I'm a Data & Business Analyst from India 
-                                                 Data Analyst | Business Analyst | eCommerce Founder
+                                                        ## Hi 👋I'm aData Analyst from India![FlagGIF](https://github.com/user-attachments/assets/bc063e34-ca72-44f1-bb95-0f8e4e64cf8f)
 
+                                                        **Data Analyst | Digital Marketing & E-commerce Specialist
+                                                          Power BI • Python • SQL • Microsoft Office
+                                                          Content creator & Founder of a semi-luxury clothing brand in India.
+                                                          Turning data into growth-driven brand decisions**                                               
 ---
 
 ## 👨‍💼 About Me
