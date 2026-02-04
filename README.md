@@ -1,9 +1,8 @@
-                                                        ## Hi 👋I'm aData Analyst from India![FlagGIF](https://github.com/user-attachments/assets/bc063e34-ca72-44f1-bb95-0f8e4e64cf8f)
-
-                                                        **Data Analyst | Digital Marketing & E-commerce Specialist
-                                                          Power BI • Python • SQL • Microsoft Office
-                                                          Content creator & Founder of a semi-luxury clothing brand in India.
-                                                          Turning data into growth-driven brand decisions**                                               
+                                                        ## Hi 👋I'm aData Analyst from India!
+                                                        **Data Analyst | Digital Marketing & E-commerce Specialist|
+                                                          |Power BI • Python • SQL • Excel|
+                                                          Content creator & Founder of a semi-luxury clothing brand in India
+                                                                                                        
 ---
 
 ## 👨‍💼 About Me
@@ -22,7 +21,8 @@ I hold a **BBA in Travel & Tourism** and gained hands-on industry experience aft
 - Power BI  
 - Tableau  
 - SQL  
-- Python  
+- Python (Pandas, Numpy)
+- Excel 
 
 ### 💼 Productivity & Business
 - Microsoft Excel  
@@ -35,7 +35,8 @@ I hold a **BBA in Travel & Tourism** and gained hands-on industry experience aft
 
 - Data Analysis & Visualization  
 - Dashboard & Report Building  
-- Business & Operational Analysis  
+- Business & Operational Analysis
+- eCommerce Analytics
 - Data-driven Decision Making  
 
 ---
@@ -48,10 +49,22 @@ I hold a **BBA in Travel & Tourism** and gained hands-on industry experience aft
 - Continuous learning & problem solving  
 
 ---
+## 📊 Featured Projects
 
+- 📈 Sales Performance Analysis ( SQL, Power BI)
+- 🛒 eCommerce Funnel Analysis
+- 📈 Custromer Retention Dashboard
+
+👉🏻Check my repositories below for detailed case studies.
+
+
+ ---
+ 
 ## 📫 Let’s Connect
 
-- 💡 Open to collaboration and learning  
+- 💡 Open to collaboration and learning
+- 🖇️Linked In:
+- 💌Email: 
 - 📈 Interested in analytics, business strategy, and startups  
 
 ---
